@@ -13,8 +13,8 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 * [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
 
 ## Meus Principais Conhecimentos
- Programação em Python:
-   Domínio das estruturas básicas e avançadas da linguagem:
+ Programação em Java:
+   Domínio das estruturas básicas  da linguagem:
    Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
 
  Programação em Java:
@@ -29,25 +29,34 @@ Banco de dados:
 
 ## Meus Projetos
 
-### Em 2023-1
+### Em 2023-2
 
-Título do Projeto:
-•
-Dom Rock Pipeline Configurator.
-Objetivo:
-•
-Criar um software de configuração de fontes de dados da pipeline do sistema da Dom Rock.
-
-Dom Rock possui uma arquitetura de processamento de dados encadeados denominado pipeline que contempla alguns estágios. Esses estágios são orquestrados de forma automatizada mediante características das fontes de dados e soluções de algoritmos de IA ou modelos matemáticos em função do negócio dos clientes. Na metodologia de implantação da solução, existe a necessidade de configurar as fontes de dados envolvidas para que a plataforma possa operar. Essa configuração, atualmente, é manual e trata-se de um passo crítico e fundamental que consome muito tempo de técnicos. O desafio, portanto, é criar uma interface amigável para configuração das fontes de dados em alguns estágios que levarão a dois benefícios tangíveis:
-1)
-Maior agilidade de configurar implantação para clientes Dom Rock e,
-2)
-Diminuir a dependência de técnicos especialistas para a configuração.
+# TG-MANAGER
+Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
+[Manual do usuário](https://github.com/wizards-of-api/api-2BD)
 
 
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+# Contexto do projeto
 
-[GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+Desenvolver uma aplicação que leia um arquivo ".csv" com respostas vindas de um formulário respondido pelos alunos a respeito do Trabalho de Graduação. O objetivo é desenvolver uma aplicação que facilite a visualização de dados auxilie na questão de aplicação de notas e feedbacks gerando relatórios que se encaixem ao cliente.
+
+# Objetivo da Solução
+
+Os objetivos da aplicação são: carregar o arquivo ".csv" para trazer uma maior facilidade na visualização dos dados e fornecer as possibilidades de anotações nas avaliações dos Trabalhos de Graduação, tais como feedback e nota do aluno em sua entrega. Também será possível agendar as entregas e definir as quantidades de entregas visto que a nota será baseado em uma média de notas que serão distribuidas nestas entregas. Por fim gerar relatórios com informações úteis ao usário, para que consiga gerenciar as turmas e facilitar a rotina e pendências das apresentações.
+
+# Funcionalidades
+
+- Carregar arquivo ".csv"
+- Verificar informaçõse do aluno
+- Controlar quantidade de entregas
+- Agendar data das entregas
+- Atribuir nota por entrega por aluno
+- Atribuir feedback por entrega por aluno
+- Gerar relatório de cada aluno
+- Gerar relatório de todos alunos
+- Gerar relatório que liste alunos aptos a defesa de sua TG com dados do orientador
+
+[GIT](https://github.com/wiz-fatec/api-2BD)
 
 #### Tecnologias Utilizadas
 
@@ -57,71 +66,67 @@ Discord: Importante para colaboração em tempo real e compartilhamento de ideia
 
 Github: Crucial para controle de versão e colaboração no desenvolvimento de código.
 
-Trello: Fundamental para gerenciamento visual de tarefas e acompanhamento do progresso.
+Git: é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
 
-Teams: Útil para videoconferências e colaboração em documentos.
-
-Miro: Valioso para sessões de brainstorming e planejamento visual do projeto.
-
-Figma: Indispensável para design de interface e prototipagem rápida.
-
-Postman: Essencial para testar e documentar APIs do projeto.
-
-StackOverflow: Recurso valioso para solucionar problemas de programação.
-
-IntelliJ IDEA: IDE principal para desenvolvimento Java, aumentando a produtividade.
-
-Visual Studio Code: Editor versátil para desenvolvimento front-end e scripts.
-
-DBeaver: Útil para gerenciamento e visualização de bancos de dados do projeto.
-
-MySQL Workbench: Importante para design e administração do banco de dados MySQL.
-
-VueJS: Framework chave para construção da interface do usuário interativa.
-
-HTML5: Fundamental para estruturar o conteúdo web do projeto.
-
-CSS3: Essencial para estilização e layout responsivo da interface.
+Figma: é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
 
 Java 17: Linguagem base para o desenvolvimento back-end do projeto.
 
+Maven: Ferramenta de gerenciamento, construção e implantação de projetos. 
+
 JDK: Kit essencial para desenvolvimento e execução de código Java.
 
-Spring Boot: Framework crucial para criação rápida de aplicações Java robustas.
+JAVA FX: Plataforma poderosa para a criação de aplicativos ricos e interativos em Java.
 
-Spring JPA: Importante para simplificar a persistência de dados no projeto.
+CSS3: Essencial para estilização e layout responsivo da interface.
 
-Spring Security: Fundamental para implementar segurança e autenticação.
+PostgreSQL: Solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciamento.
 
-JWT: Essencial para autenticação segura entre cliente e servidor.
+VSCODE	O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.
 
-MySQL: Sistema de banco de dados principal para armazenamento e gerenciamento de dados.
+IntelliJ IDEA: Ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador
+ escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.
+
+Trello: Fundamental para gerenciamento visual de tarefas e acompanhamento do progresso.
+
+Miro: Valioso para sessões de brainstorming e planejamento visual do projeto.
 
 
 #### Contribuições Pessoais
 
-Desenvolvimento da interface do usuário:
 
-Utilizei Vue.js para criar componentes reutilizáveis e interativos.
-Implementei o layout responsivo usando HTML5 e CSS3, garantindo uma experiência consistente em diferentes dispositivos.
-Criei animações suaves e transições usando CSS3 para melhorar a experiência do usuário.
+Trabalhei como desenvolvedor Java em um projeto organizado seguindo a arquitetura MVC. 
+Conexão com o Banco de Dados.
+Classes Model.
+Criação da classe Email Validator seguindo o princípio do solid ('Single Responsibility').
+Criação do Enum modelo de TG.
+Criação do Controller para enviar o arquivo csv para o Model.
+Criação da classe para o tratamento do CSV.
+Criação da tela Home da aplicação.
+Relátorios em pdf.
 
-
-Integração com o backend:
-
-Utilizei Axios para fazer requisições HTTP à API RESTful desenvolvida pela equipe de backend.
-
-
-#### Hard Skills
-
-Vue.js - Sei fazer com autonomia
-HTML5 - Sei fazer com autonomia
-CSS3 - Sei fazer com autonomia
-JavaScript (ES6+) - Sei fazer com autonomia
-Axios - Sei fazer com autonomia
+#### Hard Skills  
 
 
+**Figma**    – Sei fazer com autonomia.  
+**Java 17**  – Sei fazer com autonomia. 
+**JAVA FX**  – Sei fazer com auxilio.  
+**CSS 3**    – Sei fazer com auxilio.  
 
+
+	
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+Nome	Descrição
+Trabalho em equipe:	Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
+linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
+
+Git: Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
+
+Gestão de Tempo:	Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
+
+Comunicação Assertiva:	Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
+realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
+
+
+
 
