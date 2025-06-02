@@ -176,7 +176,16 @@ Os objetivos da aplicação são: carregar o arquivo ".csv" para trazer uma maio
 
 #### Tecnologias Utilizadas
 
-https://camo.githubusercontent.com/0d88e8c0be2d2003d916bc23543148b64b63579486c4e36996de82bc7c586e45/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c6769742c6a6176612c6d6176656e2c706f737467726573716c2c7673636f64652c69646561
+| Tecnologia | Logo |
+| -------- | -------- |
+| **Figma** | [<img height="30" width="40" alt="figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://www.figma.com/) |
+| **Git** | [<img height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/) |
+| **Java** | [<img height="30" width="40" alt="java-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg"/>](https://www.java.com/) |
+| **Maven** | [<img height="30" width="40" alt="maven-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Maven_logo.svg"/>](https://maven.apache.org/) |
+| **PostgreSQL** | [<img height="30" width="40" alt="postgresql-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"/>](https://www.postgresql.org/) |
+| **VS Code** | [<img height="30" width="40" alt="vscode-logo" src="https://code.visualstudio.com/assets/images/code-stable.png"/>](https://code.visualstudio.com/) |
+| **IDEA IntelliJ** | [<img height="30" width="40" alt="intellij-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>](https://www.jetbrains.com/idea/) |
+
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
@@ -270,7 +279,22 @@ Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 
 #### Tecnologias Utilizadas
 
-https://camo.githubusercontent.com/2dd814c7712eccced20a1264ecd80d73410cdc4e78a52ea30d7e84b71d6271b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c68746d6c2c6373732c7675656a732c747970657363726970742c6769742c737072696e672c6a6176612c6d6176656e2c646f636b65722c72656469732c7673636f64652c69646561
+| Tecnologia | Logo |
+| -------- | -------- |
+| **Figma** | [<img height="30" width="40" alt="figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://www.figma.com/) |
+| **Git** | [<img height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/) |
+| **Java** | [<img height="30" width="40" alt="java-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg"/>](https://www.java.com/) |
+| **Maven** | [<img height="30" width="40" alt="maven-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Maven_logo.svg"/>](https://maven.apache.org/) |
+| **PostgreSQL** | [<img height="30" width="40" alt="postgresql-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"/>](https://www.postgresql.org/) |
+| **VS Code** | [<img height="30" width="40" alt="vscode-logo" src="https://code.visualstudio.com/assets/images/code-stable.png"/>](https://code.visualstudio.com/) |
+| **IDEA IntelliJ** | [<img height="30" width="40" alt="intellij-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>](https://www.jetbrains.com/idea/) |
+| **HTML** | [<img height="30" width="40" alt="html-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| **CSS** | [<img height="30" width="40" alt="css-logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| **Vue.js** | [<img height="30" width="40" alt="vuejs-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>](https://vuejs.org/) |
+| **TypeScript** | [<img height="30" width="40" alt="typescript-logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"/>](https://www.typescriptlang.org/) |
+| **Spring** | [<img height="30" width="40" alt="spring-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"/>](https://spring.io/) |
+| **Docker** | [<img height="30" width="40" alt="docker-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>](https://www.docker.com/) |
+| **Redis** | [<img height="30" width="40" alt="redis-logo" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"/>](https://redis.io/) |
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
