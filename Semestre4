@@ -54,11 +54,36 @@ O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de
 Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 
 
-[GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+[GIT](https://github.com/manolito-fatec/geo-iot-2024-1)
 
 #### Tecnologias Utilizadas
 
-https://camo.githubusercontent.com/2dd814c7712eccced20a1264ecd80d73410cdc4e78a52ea30d7e84b71d6271b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c68746d6c2c6373732c7675656a732c747970657363726970742c6769742c737072696e672c6a6176612c6d6176656e2c646f636b65722c72656469732c7673636f64652c69646561
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,docker,redis,vscode,idea"/><br>
+    </div>
+</div>
+</div>
+
+Nome|Descrição|
+ :--------: | :-------- |
+|[FIGMA](https://www.figma.com/pt-br/)|Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
+|[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)|HTML (HyperText Markup Language) é a linguagem de marcação de hipertexto que é a base da web. É utilizada para criar a estrutura e o conteúdo de páginas web, definindo como o navegador deve interpretar e exibir informações como texto, imagens, links e outros elementos.
+|[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)|CSS (Cascading Style Sheets) é a linguagem usada para estilizar elementos HTML e controlar como eles são exibidos no navegador. Ele permite definir cores, fontes, espaçamentos, layouts e outros aspectos da apresentação visual de uma página web. Em resumo, o CSS é responsável por tornar a página web visualmente atraente e organizada.
+[VUE](https://vuejs.org/)|Vue.js é um framework JavaScript de código aberto e progressivo usado para construir interfaces de usuário e aplicações web. Ele é conhecido por ser fácil de aprender e integrar em projetos existentes.
+[TYPESCRIPT](https://www.typescriptlang.org/docs/handbook/2/objects.html)|TypeScript é uma linguagem de programação de código aberto, que é um superconjunto sintático do JavaScript, desenvolvido pela Microsoft. Ele adiciona recursos de tipagem estática ao JavaScript, facilitando a identificação de erros e tornando o desenvolvimento de aplicações mais seguras e complexas.
+|[GIT](https://git-scm.com/)|é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
+|[SPRING-BOOT](https://spring.io/projects/spring-boot)|Spring Boot é um framework Java de código aberto que visa facilitar o desenvolvimento de aplicações Spring. Simplifica a configuração e a execução de aplicações, tornando o processo mais rápido e fácil. É utilizado para criar aplicações web, microsserviços, APIs REST e outros tipos de aplicações.
+|[JAVA](https://docs.oracle.com/en/java/javase/17/)|Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.|
+|[MAVEN](https://maven.apache.org/)|O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.|
+|[ORACLE-CLOUD](https://www.oracle.com/br/cloud/)|A Oracle Cloud Infrastructure (OCI), frequentemente referida como Oracle Cloud, é uma plataforma de computação em nuvem que oferece uma vasta gama de serviços para empresas. Permite criar e executar aplicações em um ambiente escalável, seguro, de alto desempenho e altamente disponível, segundo a Oracle.|
+|[REDIS](https://redis.io/)|Redis é um sistema de armazenamento de dados em memória (in-memory) de código aberto que funciona como um banco de dados, cache e corretor de mensagens.
+|[VSCODE](https://code.visualstudio.com/)|O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft|
+|[INTELLIJ](https://www.jetbrains.com/pt-br/idea/)|IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.|
+
+<br>
+
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
