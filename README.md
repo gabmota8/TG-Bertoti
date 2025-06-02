@@ -175,16 +175,25 @@ Os objetivos da aplicação são: carregar o arquivo ".csv" para trazer uma maio
 
 #### Tecnologias Utilizadas
 
-| Tecnologia | Logo |
-| -------- | -------- |
-| **Figma** | [<img height="30" width="40" alt="figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://www.figma.com/) |
-| **Git** | [<img height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/) |
-| **Java** | [<img height="30" width="40" alt="java-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg"/>](https://www.java.com/) |
-| **Maven** | [<img height="30" width="40" alt="maven-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Maven_logo.svg"/>](https://maven.apache.org/) |
-| **PostgreSQL** | [<img height="30" width="40" alt="postgresql-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"/>](https://www.postgresql.org/) |
-| **VS Code** | [<img height="30" width="40" alt="vscode-logo" src="https://code.visualstudio.com/assets/images/code-stable.png"/>](https://code.visualstudio.com/) |
-| **IDEA IntelliJ** | [<img height="30" width="40" alt="intellij-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>](https://www.jetbrains.com/idea/) |
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,git,java,maven,postgresql,vscode,idea"/><br>
+    </div>
+</div>
+</div>
 
+Nome|Descrição|
+ :--------: | :-------- |
+|[FIGMA](https://www.figma.com/pt-br/)|Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web|[FIGMA](https://www.figma.com/pt-br/)|
+|[GIT](https://git-scm.com/)|é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
+|[JAVA](https://docs.oracle.com/en/java/javase/17/)|Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.|
+|[MAVEN](https://maven.apache.org/)|O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.|
+|[POSTGRESQL](https://www.postgresql.org/docs/)|PostgreSQL é uma solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciar com mais facilidade cargas de trabalho de todos os tamanhos e dimensionar conforme necessário.|
+|[VSCODE](https://code.visualstudio.com/)|O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft|
+|[INTELLIJ](https://www.jetbrains.com/pt-br/idea/)|IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.|
+
+<br>
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
