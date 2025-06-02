@@ -14,17 +14,26 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
 ## Meus Principais Conhecimentos
  Programação em Python:
-   Domínio das estruturas básicas e avançadas da linguagem:
-   Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
+   -Domínio das estruturas básicas e avançadas da linguagem:
+   -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
 
  Programação em Java:
-   Conhecimento dos fundamentos da linguagem e programação orientada a objetos
-   Experiência com desenvolvimento de aplicações desktop e web usando Java
-   Familiaridade com frameworks como Spring e Hibernate.
+   -Conhecimento dos fundamentos da linguagem e programação orientada a objetos
+   -Experiência com desenvolvimento de aplicações desktop e web usando Java
+   -Familiaridade com frameworks como Spring e Hibernate.
+
+
+  Programação em JavaScript:
+- Domínio dos conceitos essenciais da linguagem
+- Experiência com desenvolvimento frontend utilizando Vue.js 3
+- Conhecimento sobre composição de componentes, Vue Router e Vuex/Pinia para gerenciamento de estado
+- Integração eficiente de APIs RESTful para consumo de dados dinâmicos.
+
 Banco de dados:
   Conhecimentos em SQL:
    Experiência com bancos de dados relacionais como MySQL e PostgreSQL
    Integração de bancos de dados com aplicações Java.
+
 
 
 ## Meus Projetos
@@ -136,38 +145,6 @@ A organização do backlog demandou habilidades de priorização para garantir q
 Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades de cada membro e atuar para fortalecer a colaboração.  
 
 
-
-# Gabriel de Souza Mota
-## Introdução
-
-Tenho 43 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção. 
-Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei 
-na fatec em 2023, A fim de iniciar meus estudos na area de dados .
-
-
-
-
-## Contatos
-* [GIT](https://github.com/gabmota8)
-* [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
-
-## Meus Principais Conhecimentos
- Programação em Java:
-   Domínio das estruturas básicas  da linguagem:
-   Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
-
- Programação em Java:
-   Conhecimento dos fundamentos da linguagem e programação orientada a objetos
-   Experiência com desenvolvimento de aplicações desktop e web usando Java
-   Familiaridade com frameworks como Spring e Hibernate.
-Banco de dados:
-  Conhecimentos em SQL:
-   Experiência com bancos de dados relacionais como MySQL e PostgreSQL
-   Integração de bancos de dados com aplicações Java.
-
-
-## Meus Projetos
-
 ### Em 2023-2
 
 # TG-MANAGER
@@ -269,44 +246,6 @@ Comunicação Assertiva:	Procurei sempre manter uma comunicação clara com o ti
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
 
-
-
-# Gabriel de Souza Mota
-## Introdução
-
-Tenho 43 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção. 
-Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei 
-na fatec em 2023, A fim de iniciar meus estudos na area de dados .
-
-
-## Contatos
-* [GIT](https://github.com/gabmota8)
-* [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
-
-## Meus Principais Conhecimentos
- Programação em Python:
-   -Domínio das estruturas básicas e avançadas da linguagem:
-   -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
-
- Programação em Java:
-   -Conhecimento dos fundamentos da linguagem e programação orientada a objetos
-   -Experiência com desenvolvimento de aplicações desktop e web usando Java
-   -Familiaridade com frameworks como Spring e Hibernate.
-
-
-  Programação em JavaScript:
-- Domínio dos conceitos essenciais da linguagem
-- Experiência com desenvolvimento frontend utilizando Vue.js 3
-- Conhecimento sobre composição de componentes, Vue Router e Vuex/Pinia para gerenciamento de estado
-- Integração eficiente de APIs RESTful para consumo de dados dinâmicos.
-
-Banco de dados:
-  Conhecimentos em SQL:
-   Experiência com bancos de dados relacionais como MySQL e PostgreSQL
-   Integração de bancos de dados com aplicações Java.
-
-
-## Meus Projetos
 
 ### Em 2024-2
 
