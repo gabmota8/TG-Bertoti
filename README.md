@@ -271,6 +271,166 @@ realizar alguma ação importante, me preocupava em explicar bem o que estava fa
 
 
 
+# Gabriel de Souza Mota
+## Introdução
+
+Tenho 43 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção. 
+Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei 
+na fatec em 2023, A fim de iniciar meus estudos na area de dados .
+
+
+## Contatos
+* [GIT](https://github.com/gabmota8)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
+
+## Meus Principais Conhecimentos
+ Programação em Python:
+   -Domínio das estruturas básicas e avançadas da linguagem:
+   -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
+
+ Programação em Java:
+   -Conhecimento dos fundamentos da linguagem e programação orientada a objetos
+   -Experiência com desenvolvimento de aplicações desktop e web usando Java
+   -Familiaridade com frameworks como Spring e Hibernate.
+
+
+  Programação em JavaScript:
+- Domínio dos conceitos essenciais da linguagem
+- Experiência com desenvolvimento frontend utilizando Vue.js 3
+- Conhecimento sobre composição de componentes, Vue Router e Vuex/Pinia para gerenciamento de estado
+- Integração eficiente de APIs RESTful para consumo de dados dinâmicos.
+
+Banco de dados:
+  Conhecimentos em SQL:
+   Experiência com bancos de dados relacionais como MySQL e PostgreSQL
+   Integração de bancos de dados com aplicações Java.
+
+
+## Meus Projetos
+
+### Em 2024-2
+
+Título do Projeto:
+•
+GEO-IOT
+Objetivo:
+•
+O projeto tem como objetivo desenvolver uma solução robusta para o armazenamento e consulta de dados de geolocalização em tempo real,
+gerados por dispositivos IoT, como wearables, tags e smartphones. Utilizando um banco de dados SQL, ORACLE CLOUD, a solução será capaz de
+lidar com grandes volumes de dados, garantindo escalabilidade e alta disponibilidade. A arquitetura proposta envolve o uso de Spring Boot 
+para o backend, Vue.js para o frontend e comunicação eficiente via APIs RESTful. A segurança dos dados será garantida com criptografia 
+e controle de acesso.
+
+Objetivo da aplicação
+
+O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de geolocalização em tempo real, gerados por dispositivos IoT. Ele funciona como um sistema de aprendizagem digital, onde os dados são captados, organizados e analisados para oferecer insights valiosos. Utilizando um banco de dados SQL na ORACLE CLOUD, a plataforma garante escalabilidade e segurança, com criptografia e controle de acesso. A arquitetura é composta por um backend Spring Boot, frontend Vue.js e comunicação via APIs RESTful, permitindo consultas eficientes e confiáveis.
+Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
+
+
+[GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+
+#### Tecnologias Utilizadas
+
+https://camo.githubusercontent.com/2dd814c7712eccced20a1264ecd80d73410cdc4e78a52ea30d7e84b71d6271b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c68746d6c2c6373732c7675656a732c747970657363726970742c6769742c737072696e672c6a6176612c6d6176656e2c646f636b65722c72656469732c7673636f64652c69646561
+
+Slack: Essencial para comunicação rápida e eficiente da equipe.
+
+Discord: Importante para colaboração em tempo real e compartilhamento de ideias.
+
+Github: Crucial para controle de versão e colaboração no desenvolvimento de código.
+
+Trello: Fundamental para gerenciamento visual de tarefas e acompanhamento do progresso.
+
+Teams: Útil para videoconferências e colaboração em documentos.
+
+Miro: Valioso para sessões de brainstorming e planejamento visual do projeto.
+
+Figma: Indispensável para design de interface e prototipagem rápida.
+
+Postman: Essencial para testar e documentar APIs do projeto.
+
+StackOverflow: Recurso valioso para solucionar problemas de programação.
+
+IntelliJ IDEA: IDE principal para desenvolvimento Java, aumentando a produtividade.
+
+Visual Studio Code: Editor versátil para desenvolvimento front-end e scripts.
+
+DBeaver: Útil para gerenciamento e visualização de bancos de dados do projeto.
+
+MySQL Workbench: Importante para design e administração do banco de dados MySQL.
+
+VueJS: Framework chave para construção da interface do usuário interativa.
+
+HTML5: Fundamental para estruturar o conteúdo web do projeto.
+
+CSS3: Essencial para estilização e layout responsivo da interface.
+
+Java 17: Linguagem base para o desenvolvimento back-end do projeto.
+
+JDK: Kit essencial para desenvolvimento e execução de código Java.
+
+Spring Boot: Framework crucial para criação rápida de aplicações Java robustas.
+
+Spring JPA: Importante para simplificar a persistência de dados no projeto.
+
+Spring Security: Fundamental para implementar segurança e autenticação.
+
+JWT: Essencial para autenticação segura entre cliente e servidor.
+
+MySQL: Sistema de banco de dados principal para armazenamento e gerenciamento de dados.
+
+
+#### Contribuições Pessoais
+
+No contexto da equipe , atuei como QA (Quality Asssurance)
+
+Contribuições Pessoais
+No projeto GEO-IOT, atuei como QA (Quality Assurance), garantindo a qualidade e confiabilidade da aplicação em todas as etapas do desenvolvimento. Minhas responsabilidades englobaram testes em backend e frontend, assegurando que a solução fosse robusta, escalável e segura.
+Atuação no Backend:
+- Definição e execução de testes unitarios  para APIs RESTful.
+- Validação da integração entre Spring Boot e o banco de dados MySQL na Oracle Cloud.
+- Testes de segurança, incluindo validação de Spring Security e JWT para autenticação segura.
+- Análise de desempenho e carga para garantir escalabilidade.
+Atuação no Frontend:
+- Testes de usabilidade e acessibilidade na interface Vue.js.
+- Validação do consumo e apresentação de dados das APIs RESTful.
+- Garantia de responsividade e compatibilidade entre dispositivos.
+- Identificação e correção de bugs relacionados à experiência do usuário.
+Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
+
+#### Hard Skills
+
+Vue.js     - Sei fazer com autonomia.
+vitest     - Sei fazer com autonomia.
+HTML5      - Sei fazer com autonomia.
+CSS3       - Sei fazer com autonomia.
+JavaScript - Sei fazer com autonomia.
+Axios      - Sei fazer com autonomia.
+java 17    - Sei fazer com autonomia.
+JUnit      - Sei fazer com autonomia.
+
+
+
+#### Soft Skills
+Em um ambiente de desenvolvimento, a atuação de Quality Assurance (QA) vai além dos testes técnicos e da validação do código. Para garantir um software de alta qualidade, algumas soft skills são essenciais. Elas ajudam a melhorar a comunicação, eficiência e colaboração entre equipes, tornando o fluxo de desenvolvimento mais produtivo e harmonioso.
+
+Atenção aos detalhes: Fundamental para o bom andamento das demandas, pois qualquer pequeno erro pode comprometer a funcionalidade do sistema. No ambiente de desenvolvimento, isso significa revisar requisitos cuidadosamente, analisar casos de teste com precisão e identificar falhas que possam passar despercebidas em testes automatizados. Um bug não identificado pode gerar retrabalho e até impactar a experiência do usuário final.
+
+Pensamento Analítico: Permite que se  vá além da identificação de erros, compreendendo o impacto que cada falha pode ter sobre o sistema e propondo soluções eficazes. Muitas vezes, os problemas não são óbvios, exigindo uma análise profunda das integrações entre componentes e o comportamento da aplicação sob diferentes condições.
+
+ Comunicação: Realizada de  forma  clara e assertiva é indispensável para o desenvolvimento. É comum que um desenvolvedor não compreenda imediatamente o problema encontrado em um teste, portanto, relatar falhas de maneira detalhada e objetiva facilita a correção. Além disso,  devemos  ser capazes de documentar claramente os testes realizados, garantindo que todos tenham acesso ao histórico e à metodologia aplicada.
+
+Trabalho em equipe: Parte essencial do desenvolvimento ágil.  precisamos interagir constantemente com desenvolvedores, para garantir que os objetivos do projeto sejam alcançados. Mais do que encontrar bugs, o QA auxilia na construção de um software mais eficiente, sugerindo melhorias e alinhando expectativas entre diferentes times.
+
+Adaptabilidade: Juntamente com o  aprendizado contínuo são essenciais em um mercado de tecnologia que evolui rapidamente. Novas ferramentas de teste surgem constantemente, e precisamos  estar atualizados para garantir que estamos  utilizando as melhores abordagens. Além disso, metodologias ágeis exigem flexibilidade, pois mudanças de requisitos podem ocorrer a qualquer momento.
+
+Resiliência e gestão de tempo: Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade do produto. Frequentemente nos deparamos  com situações onde precisa testar funcionalidades em um período curto e ainda garantir que tudo esteja funcionando corretamente antes de um lançamento. Saber priorizar testes e gerenciar demandas é indispensável para evitar atrasos e entregas com falhas.
+
+
+
+
+
+
 
 
 
