@@ -220,13 +220,13 @@ Relátorios em pdf.
 
 	
 #### Soft Skills
-Nome	Descrição
+
 Trabalho em equipe:	Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
 Git: Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-Gestão de Tempo:	Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
+Gestão de Tempo:Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
 Comunicação Assertiva:	Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
@@ -270,116 +270,9 @@ Nome|Descrição|
 
 <br>
 <h3>Contribuições Pessoais</h3>
-Atuei no projeto como Scrum Master e desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
+Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
 
-<details>
-<summary>Adição ao FlyWay</summary>
-No projeto da Dom Rock, foi incorporada a ferramenta Flyway com o objetivo de automatizar e organizar as mudanças no banco de dados por meio de scripts versionados, conhecidos como migrations.
-O Flyway permite que as alterações no esquema do banco como criação de tabelas, alterações de colunas, inclusão de dados iniciais, entre outras sejam aplicadas de forma controlada e repetível em diferentes ambientes (desenvolvimento, homologação e produção).
-Para utilizá-lo, adicionamos a dependência necessária no arquivo pom.xml do projeto. Em seguida, criamos uma estrutura dentro da pasta resources onde os scripts de migração são armazenados. Cada migration deve seguir o padrão de nomenclatura:
-V{número da versão}__{descrição_da_migration}.sql
-Por exemplo: V1__criar_tabela_usuario.sql.
-Dessa forma, garantimos que todas as alterações de banco estejam versionadas no repositório, facilitando o controle, rastreabilidade e automação do processo de atualização do schema em todas as etapas do ciclo de desenvolvimento.
-<div>
-<img src="img/flyway.png">
-</div>
-</details>
-<details>
-<summary>Utilização commons-csv</summary>
-Implementei o algoritmo responsável pelo tratamento e validação de arquivos CSV, com o objetivo de aplicar as regras de negócio definidas para a etapa inicial do processo de envio de dados, conhecida como configuração da camada LZ (Landing Zone).
-Esse algoritmo realiza diversas validações fundamentais logo após o upload do arquivo, incluindo:
-<ul>
-    <li>Verificação de linhas nulas no conteúdo do arquivo</li>
-    <li>Identificação da presença de cabeçalho (header)</li>
-    <li>Determinação do tipo do arquivo</li>
-    <li>Identificação do separador utilizado (por exemplo: vírgula, ponto e vírgula, tabulação, etc.)</li>
-</ul>
-Essas verificações garantem que o arquivo esteja em conformidade com os padrões esperados antes de ser processado e persistido no sistema.
-Após o envio do CSV, o sistema realiza a validação e retorna uma estrutura de dados contendo as principais informações do arquivo.
-Além disso, após a conclusão do upload e processamento do CSV, todas as colunas extraídas do arquivo são automaticamente exibidas na interface, na seção "Configurar Colunas", permitindo ao usuário revisar, ativar/desativar e ajustar as propriedades de cada uma conforme necessário.
-<div>
-<img src="img/lzConfig.png">
-</div>
-</details>
-<details>
-<summary>Criação da Tela Home</summary>
-Implementei a tela Home do sistema, com o objetivo de organizar e controlar o acesso às diferentes rotas de configuração de acordo com o nível de permissão do usuário. Essa lógica é essencial para garantir que cada usuário só tenha acesso às etapas do pipeline de dados compatíveis com seu perfil de atuação, conforme definido pelas permissões atribuídas ao seu papel (role) no sistema.
-A lógica de controle de acesso foi implementada com base na permissão (role) do usuário autenticado. A partir disso, defini as seguintes regras de navegação:
-<ul>
-    <li>
-        Permissão LZ: o usuário poderá acessar exclusivamente a etapa de configuração da Landing Zone (LZ). As demais rotas (como Bronze e Silver) ficam automaticamente bloqueadas, impedindo o acesso a funcionalidades que não correspondem à sua permissão.
-    </li>
-    <li>
-        Permissão Bronze: o usuário poderá acessar a configuração da camada Bronze.
-    </li>
-    <li>    
-        Permissão Silver: o usuário poderá acessar a configuração da camada Silver
-    </li>
-</ul>        
-A navegação foi construída de forma dinâmica, garantindo que os componentes de interface e as rotas visíveis sejam renderizados de acordo com a role do usuário logado,
-além disso, segui o layout e os componentes definidos no Figma.
-<div>
-<img src="img/home.png">
-</div>
-</details>
-<details>
-<summary>Criação da tela Bronze Config</summary>
-Implementei a tela de configuração da etapa Bronze, seguindo as boas práticas de componentização e organização de interface. Durante o desenvolvimento, realizei o alinhamento dos componentes visuais e organizei a estrutura de forma hierárquica, garantindo que os componentes-pai fossem responsáveis por orquestrar os eventos e interações com os componentes-filho. Essa abordagem favorece a legibilidade do código, a reutilização de componentes e a manutenção futura da aplicação.
-Cada componente foi projetado para ser responsável por uma funcionalidade específica, promovendo um desenvolvimento mais modular e desacoplado. Com isso, consegui separar claramente as responsabilidades, tornando a lógica de interação entre os elementos da interface mais simples e eficiente.
-Na parte de integração com a API, utilizei a biblioteca Axios para realizar a requisição responsável por buscar as colunas validadas na etapa Silver.
 
-Para essa tela foi adicionada a função de escolher quais colunas seriam hash para o arquivo.
-<div>
-<img src="img/Bronze.png">
-</div>
-</details>
-<details>
-<summary>Criação da header da aplicação</summary>
-Implementei o componente de Header da aplicação, com o objetivo de oferecer uma navegação mais intuitiva e fornecer informações contextuais importantes ao usuário durante o uso do sistema.
-Esse componente reúne funcionalidades essenciais para a experiência do usuário, incluindo:
-Indicação da etapa atual: exibe de forma clara em qual etapa do processo o usuário se encontra (por exemplo: Landing Zone, Bronze ou Silver), facilitando a orientação dentro do fluxo de configuração de dados.
-<ul>
-    <li>Identificação do usuário logado: apresenta o nome ou identificação do usuário atualmente autenticado no sistema.</li>
-    <li>Botão de logout: permite que o usuário encerre sua sessão de forma rápida e segura, garantindo controle sobre o acesso ao sistema.</li>
-    <li>Botões de ação "Salvar" e "Voltar": posicionados de forma estratégica no header, esses botões permitem ao usuário salvar as configurações atuais ou retornar à tela anterior, otimizando a navegação e o fluxo de trabalho.</li>
-</ul>
-<div>
-<img src="img/header.png">
-</div>
-</details>
-<details>
-<summary>Criação da tela silver</summary>
-Implementei a tela de configuração da etapa Silver (Silver Config), que tem como principal funcionalidade permitir ao usuário realizar o mapeamento de colunas através de um processo de "de/para", ou seja, definir um nome ou valor de destino para cada coluna validada nas etapas anteriores (Landing Zone e Bronze).
-A interface foi construída de forma a facilitar a visualização e a associação entre os nomes originais das colunas e seus respectivos nomes padronizados, utilizados nas etapas seguintes do pipeline de dados
-Durante o desenvolvimento, implementei a seguinte lógica:
-<ul>
-    <li>Busca de colunas validadas: a aplicação realiza uma requisição via API para recuperar todas as colunas que foram aprovadas nas etapas anteriores do fluxo.</li>
-    <li>Associação "de/para": para cada coluna listada, o usuário pode informar um valor correspondente ao nome padronizado (o "para"). Essa associação é armazenada na configuração da etapa Silver</li>
-    <li>Remoção de mapeamento: também criei a lógica que permite remover uma coluna do mapeamento, garantindo flexibilidade na edição e correção dos dados configurados.</li>
-</ul>
-<div>
-<img src="img/silver.png">
-</div>
-</details>
-<details>
-<summary>Cadastro de empresa</summary>
-Implementei a tela de cadastro de empresa, com a pemissão de Admin é possivel realizar o cadastro de empresa para que assim seja possível possível atrelar as configurações pertencentes aas empresa.
-Portanto para registrar uma nova empresa é preciso passar o nome da empresa e o CNPJ.
-<div>
-<img src="img/register.png">
-</div>
-</details>
-<details>
-<summary>Login da aplicação</summary>
-Implementei a tela de login da aplicação, responsável por autenticar o usuário e garantir o acesso seguro às funcionalidades do sistema.
-A interface foi desenvolvida  permitindo que o usuário informe suas credenciais de forma prática. Após o envio dos dados, o sistema realiza a autenticação por meio de uma requisição à API, que retorna um token JWT (JSON Web Token) em caso de sucesso.
-Para garantir a persistência da sessão e o controle de acesso às rotas protegidas, implementei a lógica de armazenamento do token no localStorage. Com isso:
-O token fica disponível enquanto o usuário estiver logado.
-<div>
-<img src="img/login.png">
-</div>
-</details>
-<br>
 
 #### Hard Skills  
 
