@@ -195,36 +195,6 @@ Nome|Descrição|
 
 <br>
 
-Slack: Essencial para comunicação rápida e eficiente da equipe.
-
-Discord: Importante para colaboração em tempo real e compartilhamento de ideias.
-
-Github: Crucial para controle de versão e colaboração no desenvolvimento de código.
-
-Git: é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
-
-Figma: é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
-
-Java 17: Linguagem base para o desenvolvimento back-end do projeto.
-
-Maven: Ferramenta de gerenciamento, construção e implantação de projetos. 
-
-JDK: Kit essencial para desenvolvimento e execução de código Java.
-
-JAVA FX: Plataforma poderosa para a criação de aplicativos ricos e interativos em Java.
-
-CSS3: Essencial para estilização e layout responsivo da interface.
-
-PostgreSQL: Solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciamento.
-
-VSCODE	O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.
-
-IntelliJ IDEA: Ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador
- escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.
-
-Trello: Fundamental para gerenciamento visual de tarefas e acompanhamento do progresso.
-
-Miro: Valioso para sessões de brainstorming e planejamento visual do projeto.
 
 
 #### Contribuições Pessoais
@@ -233,7 +203,6 @@ Miro: Valioso para sessões de brainstorming e planejamento visual do projeto.
 Trabalhei como desenvolvedor Java em um projeto organizado seguindo a arquitetura MVC. 
 Conexão com o Banco de Dados.
 Classes Model.
-Criação da classe Email Validator seguindo o princípio do solid ('Single Responsibility').
 Criação do Enum modelo de TG.
 Criação do Controller para enviar o arquivo csv para o Model.
 Criação da classe para o tratamento do CSV.
