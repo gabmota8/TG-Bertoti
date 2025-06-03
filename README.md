@@ -252,26 +252,33 @@ O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de
 Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 
 
-[GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+[GIT](https://https://github.com/manolito-fatec/geo-iot-2024-1)
 
 #### Tecnologias Utilizadas
 
-| Tecnologia | Logo |
-| -------- | -------- |
-| **Figma** | [<img height="30" width="40" alt="figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://www.figma.com/) |
-| **Git** | [<img height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/) |
-| **Java** | [<img height="30" width="40" alt="java-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg"/>](https://www.java.com/) |
-| **Maven** | [<img height="30" width="40" alt="maven-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Maven_logo.svg"/>](https://maven.apache.org/) |
-| **PostgreSQL** | [<img height="30" width="40" alt="postgresql-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"/>](https://www.postgresql.org/) |
-| **VS Code** | [<img height="30" width="40" alt="vscode-logo" src="https://code.visualstudio.com/assets/images/code-stable.png"/>](https://code.visualstudio.com/) |
-| **IDEA IntelliJ** | [<img height="30" width="40" alt="intellij-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>](https://www.jetbrains.com/idea/) |
-| **HTML** | [<img height="30" width="40" alt="html-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) |
-| **CSS** | [<img height="30" width="40" alt="css-logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| **Vue.js** | [<img height="30" width="40" alt="vuejs-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>](https://vuejs.org/) |
-| **TypeScript** | [<img height="30" width="40" alt="typescript-logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"/>](https://www.typescriptlang.org/) |
-| **Spring** | [<img height="30" width="40" alt="spring-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"/>](https://spring.io/) |
-| **Docker** | [<img height="30" width="40" alt="docker-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>](https://www.docker.com/) |
-| **Redis** | [<img height="30" width="40" alt="redis-logo" src="https://www.liblogo.com/lib/redis-logo.html"/>](https://redis.io/) |
+<b>Tecnologias Utilizadas no Projeto</b>Add commentMore actions
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,docker,redis,vscode,idea"/><br>
+    </div>
+
+
+Tecnologia	Logo	Descrição
+Figma	<img height="30" width="40" alt="figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>	Editor gráfico de vetor e prototipagem baseado em navegador para projetos de design
+Git	<img height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>	Sistema de controle de versões distribuído para desenvolvimento de software
+Java	<img height="30" width="40" alt="java-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg"/>	Linguagem de programação multiplataforma orientada a objetos para aplicações web e empresariais
+Maven	<img height="30" width="40" alt="maven-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Maven_logo.svg"/>	Ferramenta de gerenciamento e construção de projetos Java com gestão de dependências
+PostgreSQL	<img height="30" width="40" alt="postgresql-logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"/>	Sistema de banco de dados relacional open-source robusto e escalável
+VS Code	<img height="30" width="40" alt="vscode-logo" src="https://code.visualstudio.com/assets/images/code-stable.png"/>	Editor de código-fonte leve e poderoso da Microsoft com extensões
+IntelliJ IDEA	<img height="30" width="40" alt="intellij-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>	IDE avançado para desenvolvimento em Java e outras linguagens JVM
+HTML	<img height="30" width="40" alt="html-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>	Linguagem de marcação padrão para criação de páginas web
+CSS	<img height="30" width="40" alt="css-logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>	Linguagem de estilização para design e layout de páginas web
+Vue.js	<img height="30" width="40" alt="vuejs-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>	Framework JavaScript progressivo para construção de interfaces de usuário
+TypeScript	<img height="30" width="40" alt="typescript-logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"/>	Superset tipado de JavaScript que compila para JS puro
+Spring	<img height="30" width="40" alt="spring-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"/>	Framework Java para construção de aplicações empresariais
+Docker	<img height="30" width="40" alt="docker-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>	Plataforma para desenvolvimento, envio e execução de aplicações em containers
+Redis	<img height="30" width="40" alt="redis-logo" src="https://redis.io/images/redis-white.png"/>	Banco de dados em memória usado como cache, broker de mensagens e armazenamento chave-valor
+
+
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
