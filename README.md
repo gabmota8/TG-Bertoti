@@ -271,7 +271,7 @@ Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 | **TypeScript** | [<img height="30" width="40" alt="typescript-logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"/>](https://www.typescriptlang.org/) |
 | **Spring** | [<img height="30" width="40" alt="spring-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"/>](https://spring.io/) |
 | **Docker** | [<img height="30" width="40" alt="docker-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>](https://www.docker.com/) |
-| **Redis** | [<img height="30" width="40" alt="redis-logo" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"/>](https://redis.io/) |
+| **Redis** | [<img height="30" width="40" alt="redis-logo" src="[https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg](https://www.bing.com/images/search?view=detailV2&ccid=Jed%2bUVwa&id=3089EB262858DC6D12C06EE449718722EA465479&thid=OIP.Jed-UVwaIqf16oq5f8ATDQHaE8&mediaurl=https%3a%2f%2fdownload.logo.wine%2flogo%2fRedis%2fRedis-Logo.wine.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.25e77e515c1a22a7f5ea8ab97fc0130d%3frik%3deVRG6iKHcUnkbg%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3000&q=redis+logo&simid=608038087392643996&FORM=IRPRST&ck=BCF6A6EDF372BF4BAF31E4775F83E25B&selectedIndex=3&itb=1&ajaxhist=0&ajaxserp=0)"/>](https://redis.io/) |
 
 Slack: Essencial para comunicação rápida e eficiente da equipe.
 
