@@ -212,10 +212,10 @@ Relátorios em pdf.
 #### Hard Skills  
 
 
--**Figma**    Sei fazer com autonomia.  
--**Java 17**  Sei fazer com autonomia. 
--**JAVA FX**  Sei fazer com auxilio.  
--**CSS 3**    Sei fazer com auxilio.  
+-**Figma**   - Sei fazer com autonomia.  
+-**Java 17**  -Sei fazer com autonomia. 
+-**JAVA FX** - Sei fazer com auxilio.  
+-**CSS 3**    -Sei fazer com auxilio.  
 
 
 	
