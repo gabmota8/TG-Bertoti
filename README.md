@@ -210,12 +210,17 @@ Criação da tela Home da aplicação.
 Relátorios em pdf.
 
 #### Hard Skills  
+<div>
+:--------: | :-------- |
+|-**Figma**  |- Sei fazer com autonomia.  |
 
+|-**Java 17** | -Sei fazer com autonomia. |
 
--**Figma**   - Sei fazer com autonomia.  
--**Java 17**  -Sei fazer com autonomia. 
--**JAVA FX** - Sei fazer com auxilio.  
--**CSS 3**    -Sei fazer com auxilio.  
+|-**JAVA FX**| - Sei fazer com auxilio. | 
+
+|-**CSS 3** |   -Sei fazer com auxilio. |
+<br>
+---
 
 
 	
@@ -275,15 +280,16 @@ Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei
 
 
 #### Hard Skills  
+<div>
 
-- **Figma** – Sei fazer com autonomia  
-- **Java 17** – Sei fazer com autonomia  
-- **Spring Boot** – Sei fazer com autonomia  
-- **Vue.js** – Sei fazer com auxilio  
-- **Typescript** – Sei fazer com auxilio  
-- **HTML** – Sei fazer com auxilio  
-- **CSS 3** – Sei fazer com auxilio   
-
+| **Figma**| Sei fazer com autonomia|  
+| **Java 17**| Sei fazer com autonomia|  
+| **Spring Boot**  Sei fazer com autonomia|  
+|**Vue.js**|  Sei fazer com auxilio|  
+|**Typescript**|  Sei fazer com auxilio|  
+|**HTML**|  Sei fazer com auxilio|  
+|**CSS 3**| Sei fazer com auxilio|   
+<br>
 
 	
 #### Soft Skills
@@ -369,7 +375,7 @@ Atuação no Frontend:
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
 #### Hard Skills
-
+<div>
 Vue.js     - Sei fazer com autonomia.
 vitest     - Sei fazer com autonomia.
 HTML5      - Sei fazer com autonomia.
@@ -379,7 +385,7 @@ Axios      - Sei fazer com autonomia.
 java 17    - Sei fazer com autonomia.
 JUnit      - Sei fazer com autonomia.
 
-
+<br>
 
 #### Soft Skills
 Em um ambiente de desenvolvimento, a atuação de Quality Assurance (QA) vai além dos testes técnicos e da validação do código. Para garantir um software de alta qualidade, algumas soft skills são essenciais. Elas ajudam a melhorar a comunicação, eficiência e colaboração entre equipes, tornando o fluxo de desenvolvimento mais produtivo e harmonioso.
