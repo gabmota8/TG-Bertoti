@@ -101,10 +101,14 @@ Também validei com o cliente cada um dos requisitos, garantindo que a equipe es
 
 # Hard Skills  
 
-- **Figma** – Sei fazer com autonomia  
-- **Python 3.11** – Sei fazer com autonomia  
-- **Matplotlib** – Sei fazer com autonomia  
-- **PySimpleGUI** – Sei fazer com autonomia  
+#### Hard Skills
+
+| Tecnologia       | Nível           |
+|------------------|-----------------|
+| Figma            | Autonomia       |
+| Python 3.11      | Autonomia       |
+| Matplotlib       | Autonomia       |
+| PySimpleGUI      | Autonomia       |
 
 ---
 
@@ -207,13 +211,15 @@ Criação da classe para o tratamento do CSV.
 Criação da tela Home da aplicação.
 Relátorios em pdf.
 
-### Hard Skills  
----
--**Figma**    -Sei fazer com autonomia
--**Java 17**  - Sei fazer com autonomia
--**JAVA FX**  -Sei fazer com auxilio 
--**CSS 3**    -Sei fazer com auxilio
 
+#### Hard Skills
+
+| Tecnologia       | Nível           |
+|------------------|-----------------|
+| Figma            | Autonomia       |
+| Java 17          | Autonomia       |
+| Java FX          | Com auxílio     |
+| CSS 3            | Com auxílio     |
 ---
 	
 ### Soft Skills
@@ -269,19 +275,18 @@ Nome|Descrição|
 <h3>Contribuições Pessoais</h3>
 Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
 
+ 
+#### Hard Skills
 
-
-#### Hard Skills  
-<div>
-
-| **Figma**| Sei fazer com autonomia|  
-| **Java 17**| Sei fazer com autonomia|  
-| **Spring Boot**  Sei fazer com autonomia|  
-|**Vue.js**|  Sei fazer com auxilio|  
-|**Typescript**|  Sei fazer com auxilio|  
-|**HTML**|  Sei fazer com auxilio|  
-|**CSS 3**| Sei fazer com auxilio|   
-<br>
+| Tecnologia       | Nível           |
+|------------------|-----------------|
+| Figma            | Autonomia       |
+| Java 17          | Autonomia       |
+| Spring Boot      | Autonomia       |
+| Vue.js           | Com auxílio     |
+| TypeScript       | Com auxílio     |
+| HTML             | Com auxílio     |
+| CSS 3            | Com auxílio     |
 
 	
 #### Soft Skills
@@ -367,17 +372,17 @@ Atuação no Frontend:
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
 #### Hard Skills
-<div>
-Vue.js     - Sei fazer com autonomia.
-vitest     - Sei fazer com autonomia.
-HTML5      - Sei fazer com autonomia.
-CSS3       - Sei fazer com autonomia.
-JavaScript - Sei fazer com autonomia.
-Axios      - Sei fazer com autonomia.
-java 17    - Sei fazer com autonomia.
-JUnit      - Sei fazer com autonomia.
+| Tecnologia       | Nível           |
+|------------------|-----------------|
+| Vue.js           | Autonomia       |
+| Vitest           | Autonomia       |
+| HTML5            | Autonomia       |
+| CSS3             | Autonomia       |
+| JavaScript       | Autonomia       |
+| Axios            | Autonomia       |
+| Java 17          | Autonomia       |
+| JUnit            | Autonomia       |
 
-<br>
 
 #### Soft Skills
 Em um ambiente de desenvolvimento, a atuação de Quality Assurance (QA) vai além dos testes técnicos e da validação do código. Para garantir um software de alta qualidade, algumas soft skills são essenciais. Elas ajudam a melhorar a comunicação, eficiência e colaboração entre equipes, tornando o fluxo de desenvolvimento mais produtivo e harmonioso.
