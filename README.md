@@ -212,16 +212,16 @@ Relátorios em pdf.
 #### Hard Skills  
 
 
-**Figma**    – Sei fazer com autonomia.  
-**Java 17**  – Sei fazer com autonomia. 
-**JAVA FX**  – Sei fazer com auxilio.  
-**CSS 3**    – Sei fazer com auxilio.  
+-**Figma**    Sei fazer com autonomia.  
+-**Java 17**  Sei fazer com autonomia. 
+-**JAVA FX**  Sei fazer com auxilio.  
+-**CSS 3**    Sei fazer com auxilio.  
 
 
 	
 #### Soft Skills
 
-Trabalho em equipe:	Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
+Trabalho em equipe: Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
 Git: Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
@@ -276,13 +276,13 @@ Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei
 
 #### Hard Skills  
 
-**Figma**        – Sei fazer com autonomia.  
-**Java 17**      – Sei fazer com autonomia. 
-**Spring Boot**  - Sei fazer com autonomia
-**Vue.js**       – Sei fazer com auxilio.  
-**Typescript**   - Sei fazer com auxilio.
-**HTML**         - Sei fazer com auxilio.
-**CSS 3**        – Sei fazer com auxilio.  
+- **Figma** – Sei fazer com autonomia  
+- **Java 17** – Sei fazer com autonomia  
+- **Spring Boot** – Sei fazer com autonomia  
+- **Vue.js** – Sei fazer com auxilio  
+- **Typescript** – Sei fazer com auxilio  
+- **HTML** – Sei fazer com auxilio  
+- **CSS 3** – Sei fazer com auxilio   
 
 
 	
