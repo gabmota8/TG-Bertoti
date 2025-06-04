@@ -208,19 +208,12 @@ Criação da tela Home da aplicação.
 Relátorios em pdf.
 
 #### Hard Skills  
-<div>
-:--------: | :-------- |
-|-**Figma**  |- Sei fazer com autonomia.  |
 
-|-**Java 17** | -Sei fazer com autonomia. |
-
-|-**JAVA FX**| - Sei fazer com auxilio. | 
-
-|-**CSS 3** |   -Sei fazer com auxilio. |
-<br>
+-**Figma**-Sei fazer com autonomia
+-**Java 17**- Sei fazer com autonomia
+-**JAVA FX**-Sei fazer com auxilio 
+-**CSS 3**-Sei fazer com auxilio
 ---
-
-
 	
 #### Soft Skills
 
