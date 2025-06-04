@@ -73,23 +73,34 @@ O programa viabiliza a avaliação dos alunos, se baseando na metodologia Avalia
 
 # Tecnologias usadas e ferramentas externas
 
+### Tecnologias e Bibliotecas
 
-|Tecnologia|Logo|
-| -------- |-------- |
-|**Figma**|[<img  height="30" width="40" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/>](https://www.figma.com/)|
-|**Git**|[<img  height="30" width="40" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/)|
-|**Github**|[<img  height="30" width="40" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>](https://github.com/)|
-|**Python**|[<img  height="30" width="40" alt="Python-Logo"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org/downloads/)|
-|**Trello**|[<img  height="30" width="40"  alt="trello-logo"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png"/>](https://trello.com)|
-|**Vscode**|[<img  height="30" width="40" alt="Vscode-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>](https://code.visualstudio.com/)|
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
 
-Bibliotecas Python utilizadas:
+| Tecnologia | Logo | Link |
+|------------|------|------|
+| **Figma** | <img height="30" width="40" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" alt="figma-logo"> | [Acessar](https://www.figma.com/) |
+| **Git** | <img height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git-logo"> | [Acessar](https://git-scm.com/) |
+| **GitHub** | <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github-logo"> | [Acessar](https://github.com/) |
 
-# Bibliotecas
-|Bibliotecas|Logo|
-| -------- |-------- |
-|**Py simple GUI**|[<img  height="30" width="40" alt="figma-logo" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png"/>](https://www.pysimplegui.org/en/latest/)|
-|**matplotlib**|[<img alt="mat-plot-lib" width="40" height="30" src="https://matplotlib.org/_static/logo_dark.svg">](https://matplotlib.org/)|
+| Tecnologia | Logo | Link |
+|------------|------|------|
+| **Python** | <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Logo"> | [Acessar](https://www.python.org/downloads/) |
+| **Trello** | <img height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png" alt="trello-logo"> | [Acessar](https://trello.com) |
+| **VSCode** | <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode-logo"> | [Acessar](https://code.visualstudio.com/) |
+
+</div>
+
+### Bibliotecas Python
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; align-items: center;">
+
+| Biblioteca | Logo | Link |
+|------------|------|------|
+| **PySimpleGUI** | <img height="30" width="40" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png" alt="pysimplegui-logo"> | [Acessar](https://www.pysimplegui.org/en/latest/) |
+| **Matplotlib** | <img height="30" width="40" src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib-logo"> | [Acessar](https://matplotlib.org/) |
+
+</div>
 
 # Contribuições Pessoais  
 
