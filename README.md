@@ -40,7 +40,7 @@ Banco de dados:
 
 ### Em 2023-1
 
-# Contexto do projeto 
+#  Avaliação 360º
 
 A PBLTeX, especializada em cursos práticos de ensino aplicando PBL (Problem Based Learning) desenvolveu uma dinâmica de **Avaliação Democratizada** baseada na Avaliação 360º. O desafio será de apoiar a instituição a levantar, especificar e desenvolver uma solução computacional que viabilize a aplicação da Avaliação. 
 
@@ -146,7 +146,7 @@ Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades 
 
 # TG-MANAGER
 Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
-[Manual do usuário](https://github.com/wizards-of-api/api-2BD)
+[GIT](https://github.com/wizards-of-api/api-2BD)
 
 
 # Contexto do projeto
@@ -195,7 +195,7 @@ Nome|Descrição|
 
 
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 
 
 Trabalhei como desenvolvedor Java em um projeto organizado seguindo a arquitetura MVC. 
@@ -207,15 +207,16 @@ Criação da classe para o tratamento do CSV.
 Criação da tela Home da aplicação.
 Relátorios em pdf.
 
-#### Hard Skills  
+### Hard Skills  
+---
+-**Figma**    -Sei fazer com autonomia
+-**Java 17**  - Sei fazer com autonomia
+-**JAVA FX**  -Sei fazer com auxilio 
+-**CSS 3**    -Sei fazer com auxilio
 
--**Figma**-Sei fazer com autonomia
--**Java 17**- Sei fazer com autonomia
--**JAVA FX**-Sei fazer com auxilio 
--**CSS 3**-Sei fazer com auxilio
 ---
 	
-#### Soft Skills
+### Soft Skills
 
 Trabalho em equipe: Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
