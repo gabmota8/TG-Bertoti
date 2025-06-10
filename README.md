@@ -148,7 +148,7 @@ Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades 
 
 ### Em 2023-2
 
-# TG-MANAGER
+## TG-MANAGER
 Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
 [GIT](https://github.com/wizards-of-api/api-2BD)
 
@@ -299,7 +299,7 @@ Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei
 Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
-## Git: 
+## Versionamento: 
 Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
 ## Gestão de Tempo:
@@ -333,7 +333,7 @@ Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 
 [GIT](https://https://github.com/manolito-fatec/geo-iot-2024-1)
 
-#### Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 <b>Tecnologias Utilizadas no Projeto</b>Add commentMore actions
     <div>
@@ -394,17 +394,23 @@ Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema 
 #### Soft Skills
 Em um ambiente de desenvolvimento, a atuação de Quality Assurance (QA) vai além dos testes técnicos e da validação do código. Para garantir um software de alta qualidade, algumas soft skills são essenciais. Elas ajudam a melhorar a comunicação, eficiência e colaboração entre equipes, tornando o fluxo de desenvolvimento mais produtivo e harmonioso.
 
-Atenção aos detalhes: Fundamental para o bom andamento das demandas, pois qualquer pequeno erro pode comprometer a funcionalidade do sistema. No ambiente de desenvolvimento, isso significa revisar requisitos cuidadosamente, analisar casos de teste com precisão e identificar falhas que possam passar despercebidas em testes automatizados. Um bug não identificado pode gerar retrabalho e até impactar a experiência do usuário final.
+## Atenção aos detalhes: 
+Fundamental para o bom andamento das demandas, pois qualquer pequeno erro pode comprometer a funcionalidade do sistema. No ambiente de desenvolvimento, isso significa revisar requisitos cuidadosamente, analisar casos de teste com precisão e identificar falhas que possam passar despercebidas em testes automatizados. Um bug não identificado pode gerar retrabalho e até impactar a experiência do usuário final.
 
-Pensamento Analítico: Permite que se  vá além da identificação de erros, compreendendo o impacto que cada falha pode ter sobre o sistema e propondo soluções eficazes. Muitas vezes, os problemas não são óbvios, exigindo uma análise profunda das integrações entre componentes e o comportamento da aplicação sob diferentes condições.
+## Pensamento Analítico: 
+Permite que se  vá além da identificação de erros, compreendendo o impacto que cada falha pode ter sobre o sistema e propondo soluções eficazes. Muitas vezes, os problemas não são óbvios, exigindo uma análise profunda das integrações entre componentes e o comportamento da aplicação sob diferentes condições.
 
- Comunicação: Realizada de  forma  clara e assertiva é indispensável para o desenvolvimento. É comum que um desenvolvedor não compreenda imediatamente o problema encontrado em um teste, portanto, relatar falhas de maneira detalhada e objetiva facilita a correção. Além disso,  devemos  ser capazes de documentar claramente os testes realizados, garantindo que todos tenham acesso ao histórico e à metodologia aplicada.
+ ## Comunicação: 
+ Realizada de  forma  clara e assertiva é indispensável para o desenvolvimento. É comum que um desenvolvedor não compreenda imediatamente o problema encontrado em um teste, portanto, relatar falhas de maneira detalhada e objetiva facilita a correção. Além disso,  devemos  ser capazes de documentar claramente os testes realizados, garantindo que todos tenham acesso ao histórico e à metodologia aplicada.
 
-Trabalho em equipe: Parte essencial do desenvolvimento ágil.  precisamos interagir constantemente com desenvolvedores, para garantir que os objetivos do projeto sejam alcançados. Mais do que encontrar bugs, o QA auxilia na construção de um software mais eficiente, sugerindo melhorias e alinhando expectativas entre diferentes times.
+## Trabalho em equipe: 
+Parte essencial do desenvolvimento ágil.  precisamos interagir constantemente com desenvolvedores, para garantir que os objetivos do projeto sejam alcançados. Mais do que encontrar bugs, o QA auxilia na construção de um software mais eficiente, sugerindo melhorias e alinhando expectativas entre diferentes times.
 
-Adaptabilidade: Juntamente com o  aprendizado contínuo são essenciais em um mercado de tecnologia que evolui rapidamente. Novas ferramentas de teste surgem constantemente, e precisamos  estar atualizados para garantir que estamos  utilizando as melhores abordagens. Além disso, metodologias ágeis exigem flexibilidade, pois mudanças de requisitos podem ocorrer a qualquer momento.
+## Adaptabilidade:
+Juntamente com o  aprendizado contínuo são essenciais em um mercado de tecnologia que evolui rapidamente. Novas ferramentas de teste surgem constantemente, e precisamos  estar atualizados para garantir que estamos  utilizando as melhores abordagens. Além disso, metodologias ágeis exigem flexibilidade, pois mudanças de requisitos podem ocorrer a qualquer momento.
 
-Resiliência e gestão de tempo: Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade do produto. Frequentemente nos deparamos  com situações onde precisa testar funcionalidades em um período curto e ainda garantir que tudo esteja funcionando corretamente antes de um lançamento. Saber priorizar testes e gerenciar demandas é indispensável para evitar atrasos e entregas com falhas.
+## Resiliência e gestão de tempo: 
+Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade do produto. Frequentemente nos deparamos  com situações onde precisa testar funcionalidades em um período curto e ainda garantir que tudo esteja funcionando corretamente antes de um lançamento. Saber priorizar testes e gerenciar demandas é indispensável para evitar atrasos e entregas com falhas.
 
 
 
