@@ -289,14 +289,14 @@ Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei
 | CSS 3            | Com auxílio     |
 
 	
-#### Soft Skills
-Nome	Descrição
+### Soft Skills
+
 Trabalho em equipe:Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
 Git: Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-Gestão de Tempo:	Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
+Gestão de Tempo:Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
 Comunicação Assertiva:	Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
@@ -307,9 +307,8 @@ realizar alguma ação importante, me preocupava em explicar bem o que estava fa
 
 ### Em 2024-2
 
-Título do Projeto:
-•
-GEO-IOT
+
+### GEO-IOT
 Objetivo:
 •
 O projeto tem como objetivo desenvolver uma solução robusta para o armazenamento e consulta de dados de geolocalização em tempo real,
@@ -318,7 +317,7 @@ lidar com grandes volumes de dados, garantindo escalabilidade e alta disponibili
 para o backend, Vue.js para o frontend e comunicação eficiente via APIs RESTful. A segurança dos dados será garantida com criptografia 
 e controle de acesso.
 
-Objetivo da aplicação
+## Objetivo da aplicação
 
 O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de geolocalização em tempo real, gerados por dispositivos IoT. Ele funciona como um sistema de aprendizagem digital, onde os dados são captados, organizados e analisados para oferecer insights valiosos. Utilizando um banco de dados SQL na ORACLE CLOUD, a plataforma garante escalabilidade e segurança, com criptografia e controle de acesso. A arquitetura é composta por um backend Spring Boot, frontend Vue.js e comunicação via APIs RESTful, permitindo consultas eficientes e confiáveis.
 Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
@@ -357,7 +356,7 @@ Nome|Descrição|
 
 No contexto da equipe , atuei como QA (Quality Asssurance)
 
-Contribuições Pessoais
+## Contribuições Pessoais
 No projeto GEO-IOT, atuei como QA (Quality Assurance), garantindo a qualidade e confiabilidade da aplicação em todas as etapas do desenvolvimento. Minhas responsabilidades englobaram testes em backend e frontend, assegurando que a solução fosse robusta, escalável e segura.
 Atuação no Backend:
 - Definição e execução de testes unitarios  para APIs RESTful.
