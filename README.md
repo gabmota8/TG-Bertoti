@@ -1,5 +1,5 @@
 # Gabriel de Souza Mota
-## Introdução
+### Introdução
 
 Tenho 43 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção. 
 Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei 
@@ -8,11 +8,11 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
 
 
-## Contatos
+### Contatos
 * [GIT](https://github.com/gabmota8)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
 
-## Meus Principais Conhecimentos
+### Meus Principais Conhecimentos
  Programação em Python:
    -Domínio das estruturas básicas e avançadas da linguagem:
    -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
@@ -36,28 +36,28 @@ Banco de dados:
 
 
 
-## Meus Projetos
+# Meus Projetos
+  
+### Em 2023-1  (Cliente Interno )
 
-### Em 2023-1
-
-#  Avaliação 360º
+###  Avaliação 360º
 
 A PBLTeX, especializada em cursos práticos de ensino aplicando PBL (Problem Based Learning) desenvolveu uma dinâmica de **Avaliação Democratizada** baseada na Avaliação 360º. O desafio será de apoiar a instituição a levantar, especificar e desenvolver uma solução computacional que viabilize a aplicação da Avaliação. 
 
-# Objetivo da solução 
+### Objetivo da solução 
 
 O programa viabiliza a avaliação dos alunos, se baseando na metodologia Avaliação 360º. Para liberar o acesso ao programa, teremos 2 niveis de acesso: Administrador e Aluno. Dependendo do tipo de acesso, havera opções de tela diferentes. A tela "aluno" possibilitará ao usuário ver a turma e o grupo ao qual está inserido, avaliar os membros do seu grupo e se  auto-avaliar, podendo ver os resultados das avaliações realizadas por ele. O "Administrador" terá atribuições de criar as turmas, grupos e o registro dos alunos, requisitar a avaliação e observar os resultados da mesma, atraves de dashboards operacionais e gerenciais .
 
 # Funcionalidades
 
-## Aluno
+### Aluno
 
 - Realizar login com usuário e senha
 - Acessar a Interface de Aluno
 - Avaliar a si mesmo e aos seus colegas
 - Visualizar gráficos de desempenho gerados pela sua avaliação
 
-## Administrador
+### Administrador
 
 - Realizar o login com usuário e senha
 - Acessar a Interface de administrador
@@ -99,69 +99,87 @@ Também validei com o cliente cada um dos requisitos, garantindo que a equipe es
 
 ---
 
-# Hard Skills  
+## Hard Skills  
 
-#### Hard Skills
 
-| Tecnologia       | Nível           |
-|------------------|-----------------|
-| Figma            | Autonomia       |
-| Python 3.11      | Autonomia       |
-| Matplotlib       | Autonomia       |
-| PySimpleGUI      | Autonomia       |
+#### Figma (Design de Interfaces)
+
+Prototipagem de interfaces para sistemas de gerenciamento de bancos de dados
+Design de telas para visualização das etapas
+Design de dashboards para visualização de dados
+
+Benefícios para o aprendizado:
+
+Visualização antecipada de como os dados serão apresentados aos usuários
+
+#### Python (Linguagem de Programação)
+##### Aplicação para o projeto:
+Desenvolvimento de scripts para migração e transformação de dados
+
+##### Implementação Técnica:
+Desenvolver a arquitetura do sistema
+Implementar os módulos de autenticação e autorização
+Criar as interfaces para aluno e administrador
+Desenvolver a lógica de avaliação 360º
+Implementar os dashboards e relatórios
+Garantir a segurança dos dados (especialmente com avaliações confidenciais)
+
+##### Boas Práticas:
+Versionamento com Git
+Documentação do código
 
 ---
 
-# Soft Skills e Aplicações Práticas  
+## Soft Skills e Aplicações Práticas  
 
-## Comunicação  
+#### Comunicação  
 Foi essencial para garantir que os requisitos e as habilidades da equipe fossem bem distribuídos durante o desenvolvimento.  
 
  Durante reuniões semanais, foi preciso considerar a disponibilidade dos membros que não cursavam as mesmas disciplinas. Para isso, trabalhei na organização das agendas e conduzi as discussões de forma objetiva, garantindo que todos tivessem voz no processo.  
 
-## Liderança  
+#### Liderança  
 Ser um Product Owner exigiu um papel de liderança para orientar a equipe na importância do **SCRUM** e na definição das entregas.  
 
  No início do projeto, alguns membros não compreendiam a necessidade de seguir o framework ágil. Foi necessário reforçar a importância da metodologia para a eficiência do desenvolvimento e incentivar a colaboração entre os envolvidos.  
 
-## Adaptabilidade  
+#### Adaptabilidade  
 Com mudanças e imprevistos comuns em projetos de software, foi crucial ter flexibilidade para ajustar o planejamento.  
 
  Durante uma sprint, percebi que um requisito precisava de ajustes devido a limitações técnicas. Como PO, facilitei a comunicação entre cliente e equipe, garantindo que as alterações fossem feitas sem comprometer o prazo de entrega.  
 
-## Resolução de Conflitos  
+#### Resolução de Conflitos  
 Em alguns momentos, houve divergências sobre abordagens técnicas e distribuição de tarefas. Como PO, minha função foi atuar como mediador para encontrar o melhor caminho.  
 
 Quando surgiu um impasse entre desenvolvedores sobre qual tecnologia utilizar, conduzi uma análise baseada em critérios técnicos e estratégicos para chegar a uma solução consensual e eficiente.  
 
-## Visão de Produto e Negócio  
+#### Visão de Produto e Negócio  
 Além da parte técnica, trabalhei para que a equipe compreendesse o valor do produto e o impacto das entregas no cliente final.  
 
  Durante reuniões de validação com o cliente, conectei os requisitos técnicos às necessidades reais dos usuários, garantindo que cada membro da equipe entendesse a importância do seu trabalho.  
 
-## Gestão de Tempo e Priorização  
+#### Gestão de Tempo e Priorização  
 A organização do backlog demandou habilidades de priorização para garantir que os itens mais críticos fossem entregues primeiro.  
 
-## Empatia e Trabalho em Equipe  
+#### Empatia e Trabalho em Equipe  
 Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades de cada membro e atuar para fortalecer a colaboração.  
 
 
 ### Em 2023-2
 
-## TG-MANAGER
+## TG-MANAGER (Cliente Interno )
 Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
 [GIT](https://github.com/wizards-of-api/api-2BD)
 
 
-# Contexto do projeto
+#### Contexto do projeto
 
 Desenvolver uma aplicação que leia um arquivo ".csv" com respostas vindas de um formulário respondido pelos alunos a respeito do Trabalho de Graduação. O objetivo é desenvolver uma aplicação que facilite a visualização de dados auxilie na questão de aplicação de notas e feedbacks gerando relatórios que se encaixem ao cliente.
 
-# Objetivo da Solução
+#### Objetivo da Solução
 
 Os objetivos da aplicação são: carregar o arquivo ".csv" para trazer uma maior facilidade na visualização dos dados e fornecer as possibilidades de anotações nas avaliações dos Trabalhos de Graduação, tais como feedback e nota do aluno em sua entrega. Também será possível agendar as entregas e definir as quantidades de entregas visto que a nota será baseado em uma média de notas que serão distribuidas nestas entregas. Por fim gerar relatórios com informações úteis ao usário, para que consiga gerenciar as turmas e facilitar a rotina e pendências das apresentações.
 
-# Funcionalidades
+#### Funcionalidades
 
 - Carregar arquivo ".csv"
 - Verificar informaçõse do aluno
@@ -199,27 +217,56 @@ Nome|Descrição|
 
 
 
-### Contribuições Pessoais
+# Contribuições Pessoais
 
+Criei uma classe DatabaseConnection utilizando o padrão Singleton para evitar múltiplas instâncias de conexão.
+Implementei pool de conexões (com HikariCP) para melhor desempenho em requisições simultâneas.
+Adicionei tratamento de exceções personalizadas para falhas de conexão.
+Utilizei JPA/Hibernate para mapeamento objeto-relacional (ORM).
+Defini relacionamentos (@OneToMany, @ManyToOne) entre entidades.
+Implementei validações com Bean Validation (@NotNull, @Size).
+Criei um Enum (TipoTG) para padronizar os valores.
+Adicionei um método estático para conversão de String para Enum (útil em formulários).
 
-Trabalhei como desenvolvedor Java em um projeto organizado seguindo a arquitetura MVC. 
-Conexão com o Banco de Dados.
-Classes Model.
-Criação do Enum modelo de TG.
-Criação do Controller para enviar o arquivo csv para o Model.
-Criação da classe para o tratamento do CSV.
-Criação da tela Home da aplicação.
-Relátorios em pdf.
 
 
 #### Hard Skills
 
-| Tecnologia       | Nível           |
-|------------------|-----------------|
-| Figma            | Autonomia       |
-| Java 17          | Autonomia       |
-| Java FX          | Com auxílio     |
-| CSS 3            | Com auxílio     |
+#### Figma (Design de Interfaces
+Aplicação no Projeto:
+Prototipagem de interfaces para sistemas de gerenciamento de bancos de dados, garantindo uma experiência intuitiva para o usuário.
+Design de telas que representam as etapas do fluxo de avaliação 360º, facilitando a navegação e interação.
+Criação de dashboards para visualização de dados, permitindo uma análise clara e eficiente das avaliações.
+
+Benefícios para o Aprendizado:
+Permite a visualização antecipada de como os dados serão apresentados, melhorando a usabilidade.
+Facilita a validação de ideias antes da implementação técnica, reduzindo retrabalho.
+Documentação do código para facilitar futuras manutenções e entendimento do sistema.
+
+### Java 17
+
+Aplicação no Projeto:
+Desenvolvimento do backend do sistema, garantindo alta performance e confiabilidade.
+Integração com banco de dados para armazenamento e recuperação das avaliações.
+Implementação Técnica:
+Implementação de serviços de negócio para processamento das avaliações.
+
+#### JavaFX
+Aplicação no Projeto:
+Desenvolvimento de interfaces desktop para uma experiência mais robusta em sistemas offline.
+Visualização de dashboards em aplicações standalone.
+Uso de FXML para separação entre lógica e interface.
+Integração com CSS 3 para estilização avançada.
+
+#### CSS 3
+Nível: Com auxílio
+Aplicação no Projeto:
+Estilização de interfaces no JavaFX e em possíveis versões web.
+Responsividade para adaptação a diferentes dispositivos.
+Benefícios para o Aprendizado:
+Melhora a experiência do usuário com designs mais atraentes e funcionais.
+Permite a customização avançada de componentes visuais.
+
 ---
 	
 ### Soft Skills
@@ -239,7 +286,7 @@ Procurei sempre manter uma comunicação clara com o time durante o desenvolvime
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
 
-### Em 2024-1
+### Em 2024-1 (Cliente Externo )
 
 ---
 
@@ -282,17 +329,44 @@ Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei
  
 #### Hard Skills
 
-| Tecnologia       | Nível           |
-|------------------|-----------------|
-| Figma            | Autonomia       |
-| Java 17          | Autonomia       |
-| Spring Boot      | Autonomia       |
-| Vue.js           | Com auxílio     |
-| TypeScript       | Com auxílio     |
-| HTML             | Com auxílio     |
-| CSS 3            | Com auxílio     |
+#### Figma (Design de Interfaces)
+Aplicação no Projeto:
+Prototipagem de interfaces para sistemas web e mobile, garantindo usabilidade e experiência intuitiva.
+Design de componentes reutilizáveis para manter consistência visual em todo o sistema.
+Criação de fluxos de navegação para mapear a jornada do usuário nas aplicações.
 
-	
+#### Java 
+Aplicação no Projeto:
+Desenvolvimento do backend com alta performance e segurança.
+Processamento de dados complexos e integração com bancos de dados relacionais.
+
+#### Spring Boot
+Aplicação no Projeto:
+Criação de APIs RESTful para comunicação entre front-end e back-end.
+Injeção de dependências e gestão simplificada de componentes.
+Segurança com Spring Security para autenticação e autorização.
+Integração fácil com bancos de dados (JPA/Hibernate) e serviços externos.
+
+#### Vue.js
+Aplicação no Projeto:
+Desenvolvimento de interfaces dinâmicas e reativas para dashboards administrativos.
+Componentização para reutilização de elementos UI.
+Implementação Técnica:
+Uso de Vue 3 Composition API para melhor organização do código.
+Integração com TypeScript para maior segurança de tipos.
+
+#### TypeScript
+Aplicação no Projeto:
+Tipagem estática em componentes Vue.js para reduzir erros em runtime.
+Melhor autocompletar e documentação implícita no código.
+
+
+#### HTML & CSS 3
+Aplicação no Projeto:
+Estruturação semântica de páginas com HTML5.
+Estilização responsiva com Flexbox/Grid e media queries.
+Animações e transições para melhor experiência do usuário.
+
 ### Soft Skills
 
 ## Trabalho em equipe:
@@ -310,10 +384,7 @@ Procurei sempre manter uma comunicação clara com o time durante o desenvolvime
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
 
-
-
-
-### Em 2024-2
+### Em 2024-2 (Cliente Externo)
 
 
 ### GEO-IOT
@@ -379,16 +450,78 @@ Atuação no Frontend:
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
 #### Hard Skills
-| Tecnologia       | Nível           |
-|------------------|-----------------|
-| Vue.js           | Autonomia       |
-| Vitest           | Autonomia       |
-| HTML5            | Autonomia       |
-| CSS3             | Autonomia       |
-| JavaScript       | Autonomia       |
-| Axios            | Autonomia       |
-| Java 17          | Autonomia       |
-| JUnit            | Autonomia       |
+
+
+#### Vue.js
+
+Aplicação no Projeto:
+Desenvolvimento de interfaces reativas e dinâmicas utilizando Single File Components (SFC)
+Implementação de rotas com Vue Router para navegação entre páginas
+Gerenciamento de estado global com Pinia para compartilhamento eficiente de dados entre componentes
+Criação de componentes reutilizáveis seguindo princípios de design atômico
+
+#### Vitest
+Aplicação no Projeto:
+Testes unitários para componentes Vue.js
+Testes de lógica de negócio isolada
+Testes de snapshots para prevenir regressões visuais
+Configuração de ambientes de teste específicos
+Mocking de dependências externas
+Cobertura de código com relatórios detalhados
+
+#### HTML5
+Aplicação no Projeto:
+Estrutura semântica de páginas web
+Formulários avançados com validação nativa
+Elementos multimídia incorporados diretamente
+API de armazenamento local para dados temporários
+
+#### CSS3
+Aplicação no Projeto:
+Layouts flexíveis com Flexbox e Grid
+Animações e transições para melhor UX
+Design responsivo com media queries
+Variáveis CSS para manutenção simplificada
+
+
+#### JavaScript (ES6+)
+Aplicação no Projeto:
+Manipulação do DOM eficiente
+Programação assíncrona com async/await
+Implementação de lógica complexa no front-end
+Consumo de APIs RESTful
+
+#### Axios
+
+Aplicação no Projeto:
+Requisições HTTP para APIs REST
+Interceptores para tratamento global de erros
+Cancelamento de requisições
+Transformação automática de dados JSON
+Configurações:
+Timeouts configuráveis
+Headers customizados
+Instâncias base para diferentes endpoints
+
+#### Java 
+Aplicação no Projeto:
+Desenvolvimento de microsserviços
+Processamento de dados em backend
+Integração com bancos relacionais
+Features Modernas:
+Records para DTOs imutáveis
+Pattern Matching
+Text Blocks
+NullPointerException mais descritivas
+
+#### JUnit
+Aplicação no Projeto:
+Testes unitários de classes Java
+Testes parametrizados
+Assertions avançadas
+
+JUnit Jupiter (v5)
+Mockito para mocks
 
 
 #### Soft Skills
