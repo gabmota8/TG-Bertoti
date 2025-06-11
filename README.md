@@ -243,7 +243,7 @@ Permite a visualização antecipada de como os dados serão apresentados, melhor
 Facilita a validação de ideias antes da implementação técnica, reduzindo retrabalho.
 Documentação do código para facilitar futuras manutenções e entendimento do sistema.
 
-### Java 17
+#### Java 
 
 Aplicação no Projeto:
 Desenvolvimento do backend do sistema, garantindo alta performance e confiabilidade.
@@ -271,17 +271,17 @@ Permite a customização avançada de componentes visuais.
 	
 ### Soft Skills
 
-## Trabalho em equipe: 
+#### Trabalho em equipe: 
 Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
-## Git:
+#### Versionamento:
 Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-## Gestão de Tempo:
+#### Gestão de Tempo:
 oncluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
-## Comunicação Assertiva:	
+#### Comunicação Assertiva:	
 Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
@@ -327,7 +327,7 @@ Nome|Descrição|
 Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
 
  
-#### Hard Skills
+### Hard Skills
 
 #### Figma (Design de Interfaces)
 Aplicação no Projeto:
@@ -369,17 +369,17 @@ Animações e transições para melhor experiência do usuário.
 
 ### Soft Skills
 
-## Trabalho em equipe:
+#### Trabalho em equipe:
 Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
-## Versionamento: 
+#### Versionamento: 
 Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-## Gestão de Tempo:
+#### Gestão de Tempo:
 Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
-## Comunicação Assertiva:	
+#### Comunicação Assertiva:	
 Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
@@ -449,7 +449,7 @@ Atuação no Frontend:
 - Identificação e correção de bugs relacionados à experiência do usuário.
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
-#### Hard Skills
+### Hard Skills
 
 
 #### Vue.js
